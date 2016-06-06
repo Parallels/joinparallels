@@ -1,4 +1,4 @@
-We are always looking for tech-savvy people who are not indifferent to their craft. Even if you don't find a suitable position below, but believe that you can add value to the company, [drop us a line](mailto:knazarov@parallels.com). We will get back to you.
+We are always looking for tech-savvy people who are not indifferent to their craft. Even if you don't find a suitable position below, but believe that you can add value to the company, [drop us a line](mailto:efirsova@parallels.com). We will get back to you.
 
 ## [Infrastructure Developer](infrastructure_developer.md) ##
 

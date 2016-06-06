@@ -1,6 +1,6 @@
 Location: [Moscow/Russia](https://www.google.ru/maps/place/Snezhnaya+ul.,+26,+Moskva,+129323/@55.855127,37.651034,17z/data=!3m1!4b1!4m2!3m1!1s0x46b536945961989b:0x9ade206868b3c11b?hl=en)
 
-Hiring manager: [Konstantin Nazarov](https://github.com/racktear)
+Hiring manager: [Ekaterina Firsova](mailto:efirsova@parallels.com)
 
 
 Parallels CI Team is responsible for building a system that composes final product from source code on a continuous basis. The system is built around Jenkins, Artifactory, Rundeck and our own internally developed services in a way that makes most use of community code. It builds our code for almost all popular platforms: OS X, Windows, Linux, iOS and Android.
@@ -24,5 +24,5 @@ Together with the rest of the team you will also support the codebase of our pro
 
 ## Applying ##
 
-Email me directly: [knazarov@parallels.com](mailto:knazarov@parallels.com).
+Email me: [efirsova@parallels.com](mailto:efirsova@parallels.com).
 I will be glad to answer any questions, even if you are not ready to join us yet.
